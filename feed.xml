@@ -3,7 +3,6 @@
   <channel>
     <title>Musar and Chasiddus / שיעורי מוסר וחסידות</title>
     <description>שיעורי מוסר ותיקון המידות ממיטב רבני ישראל. מסילת ישרים, שערי תשובה וחובות הלבבות, שמירת הלשון, כעס וענווה, אמונה וביטחון - שיעורי חיזוק יומיים לעבודת הנפש - אוצר התורה.</description>
-    <itunes:summary>שיעורי מוסר ותיקון המידות ממיטב רבני ישראל. מסילת ישרים, שערי תשובה וחובות הלבבות, שמירת הלשון, כעס וענווה, אמונה וביטחון - שיעורי חיזוק יומיים לעבודת הנפש - אוצר התורה.</itunes:summary>
     <link>https://rabmeireliyahu.github.io/musar</link>
     <language>he</language>
     <itunes:author>אוצר התורה</itunes:author>
@@ -7185,6 +7184,24 @@
       <guid isPermaLink="false">הרב ברוך רוזנבלום - סוד ט״ו באב והקשר המפתיע לבית המקדש השלישי בקרוב !!.mp3</guid>
       <pubDate>Wed, 29 Jul 2026 11:32:59 -0000</pubDate>
       <itunes:duration>01:02:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב גואל אלקריף ｜ פרשת עקב תשפ＂ו (2026) ｜ עלונימייל</title>
+      <description>הרב גואל אלקריף ｜ פרשת עקב תשפ＂ו (2026) ｜ עלונימייל</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/musar-and-chasiddus-otzar/%D7%94%D7%A8%D7%91%20%D7%92%D7%95%D7%90%D7%9C%20%D7%90%D7%9C%D7%A7%D7%A8%D7%99%D7%A3%20%EF%BD%9C%20%D7%A4%D7%A8%D7%A9%D7%AA%20%D7%A2%D7%A7%D7%91%20%D7%AA%D7%A9%D7%A4%EF%BC%82%D7%95%20%282026%29%20%EF%BD%9C%20%D7%A2%D7%9C%D7%95%D7%A0%D7%99%D7%9E%D7%99%D7%99%D7%9C.mp3" length="37528392" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב גואל אלקריף ｜ פרשת עקב תשפ＂ו (2026) ｜ עלונימייל.mp3</guid>
+      <pubDate>Thu, 30 Jul 2026 09:57:15 -0000</pubDate>
+      <itunes:duration>00:39:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>אם אתם אוהבים תירוצים – אל תראו את הסרטון הזה 🛑 - עם כתוביות</title>
+      <description>אם אתם אוהבים תירוצים – אל תראו את הסרטון הזה 🛑 - עם כתוביות</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/musar-and-chasiddus-otzar/%D7%90%D7%9D%20%D7%90%D7%AA%D7%9D%20%D7%90%D7%95%D7%94%D7%91%D7%99%D7%9D%20%D7%AA%D7%99%D7%A8%D7%95%D7%A6%D7%99%D7%9D%20%E2%80%93%20%D7%90%D7%9C%20%D7%AA%D7%A8%D7%90%D7%95%20%D7%90%D7%AA%20%D7%94%D7%A1%D7%A8%D7%98%D7%95%D7%9F%20%D7%94%D7%96%D7%94%20%F0%9F%9B%91%20-%20%D7%A2%D7%9D%20%D7%9B%D7%AA%D7%95%D7%91%D7%99%D7%95%D7%AA.mp3" length="1435887" type="audio/mpeg"/>
+      <guid isPermaLink="false">אם אתם אוהבים תירוצים – אל תראו את הסרטון הזה 🛑 - עם כתוביות.mp3</guid>
+      <pubDate>Thu, 30 Jul 2026 09:58:15 -0000</pubDate>
+      <itunes:duration>00:01:29</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
