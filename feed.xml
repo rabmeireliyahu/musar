@@ -2,7 +2,8 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>Musar and Chasiddus / שיעורי מוסר וחסידות</title>
-    <description>שיעורי מוסר וחסידות - אוצר התורה</description>
+    <description>שיעורי מוסר ותיקון המידות ממיטב רבני ישראל. מסילת ישרים, שערי תשובה וחובות הלבבות, שמירת הלשון, כעס וענווה, אמונה וביטחון - שיעורי חיזוק יומיים לעבודת הנפש - אוצר התורה.</description>
+    <itunes:summary>שיעורי מוסר ותיקון המידות ממיטב רבני ישראל. מסילת ישרים, שערי תשובה וחובות הלבבות, שמירת הלשון, כעס וענווה, אמונה וביטחון - שיעורי חיזוק יומיים לעבודת הנפש - אוצר התורה.</itunes:summary>
     <link>https://rabmeireliyahu.github.io/musar</link>
     <language>he</language>
     <itunes:author>אוצר התורה</itunes:author>
