@@ -11766,5 +11766,14 @@
       <itunes:duration>00:06:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>חיזוק עוצמתי לנפש - הרב שלום ארוש והרב אייל עמרמי</title>
+      <description>חיזוק עוצמתי לנפש - הרב שלום ארוש והרב אייל עמרמי</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/musar-and-chasiddus-otzar/%D7%97%D7%99%D7%96%D7%95%D7%A7%20%D7%A2%D7%95%D7%A6%D7%9E%D7%AA%D7%99%20%D7%9C%D7%A0%D7%A4%D7%A9%20-%20%D7%94%D7%A8%D7%91%20%D7%A9%D7%9C%D7%95%D7%9D%20%D7%90%D7%A8%D7%95%D7%A9%20%D7%95%D7%94%D7%A8%D7%91%20%D7%90%D7%99%D7%99%D7%9C%20%D7%A2%D7%9E%D7%A8%D7%9E%D7%99.mp3" length="29277837" type="audio/mpeg"/>
+      <guid isPermaLink="false">חיזוק עוצמתי לנפש - הרב שלום ארוש והרב אייל עמרמי.mp3</guid>
+      <pubDate>Thu, 08 Oct 2026 13:07:58 -0000</pubDate>
+      <itunes:duration>00:56:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
