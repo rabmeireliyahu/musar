@@ -13089,5 +13089,14 @@
       <itunes:duration>00:01:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>אזכרה 11 חודשים ｜ כיבוד הורים ｜ הרב רונן שאולוב ｜ נתניה</title>
+      <description>אזכרה 11 חודשים ｜ כיבוד הורים ｜ הרב רונן שאולוב ｜ נתניה</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/musar-and-chasiddus-otzar/%D7%90%D7%96%D7%9B%D7%A8%D7%94%2011%20%D7%97%D7%95%D7%93%D7%A9%D7%99%D7%9D%20%EF%BD%9C%20%D7%9B%D7%99%D7%91%D7%95%D7%93%20%D7%94%D7%95%D7%A8%D7%99%D7%9D%20%EF%BD%9C%20%D7%94%D7%A8%D7%91%20%D7%A8%D7%95%D7%A0%D7%9F%20%D7%A9%D7%90%D7%95%D7%9C%D7%95%D7%91%20%EF%BD%9C%20%D7%A0%D7%AA%D7%A0%D7%99%D7%94.mp3" length="21428925" type="audio/mpeg"/>
+      <guid isPermaLink="false">אזכרה 11 חודשים ｜ כיבוד הורים ｜ הרב רונן שאולוב ｜ נתניה.mp3</guid>
+      <pubDate>Tue, 03 Nov 2026 05:17:06 -0000</pubDate>
+      <itunes:duration>00:35:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
